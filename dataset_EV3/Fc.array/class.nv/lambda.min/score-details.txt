@@ -1,0 +1,26 @@
+Confusion Matrix and Statistics
+
+            Reference
+Prediction   nonviremic viremic
+  nonviremic         70      19
+  viremic            19      73
+                                          
+               Accuracy : 0.7901          
+                 95% CI : (0.7234, 0.8469)
+    No Information Rate : 0.5083          
+    P-Value [Acc > NIR] : 4.48e-15        
+                                          
+                  Kappa : 0.58            
+ Mcnemar's Test P-Value : 1               
+                                          
+            Sensitivity : 0.7865          
+            Specificity : 0.7935          
+         Pos Pred Value : 0.7865          
+         Neg Pred Value : 0.7935          
+             Prevalence : 0.4917          
+         Detection Rate : 0.3867          
+   Detection Prevalence : 0.4917          
+      Balanced Accuracy : 0.7900          
+                                          
+       'Positive' Class : nonviremic      
+                                          

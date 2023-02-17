@@ -1,0 +1,26 @@
+Confusion Matrix and Statistics
+
+            Reference
+Prediction   controller progressor
+  controller         76         24
+  progressor         20         61
+                                          
+               Accuracy : 0.7569          
+                 95% CI : (0.6877, 0.8175)
+    No Information Rate : 0.5304          
+    P-Value [Acc > NIR] : 2.83e-10        
+                                          
+                  Kappa : 0.5107          
+ Mcnemar's Test P-Value : 0.6511          
+                                          
+            Sensitivity : 0.7917          
+            Specificity : 0.7176          
+         Pos Pred Value : 0.7600          
+         Neg Pred Value : 0.7531          
+             Prevalence : 0.5304          
+         Detection Rate : 0.4199          
+   Detection Prevalence : 0.5525          
+      Balanced Accuracy : 0.7547          
+                                          
+       'Positive' Class : controller      
+                                          
