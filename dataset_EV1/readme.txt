@@ -16,3 +16,6 @@ meta: metadata for analysis
 - detections: groups of Fc Array detection reagent names
 - glycans: summary characteristics of each glycan feature: _b_isected GlcNAc, _s_ialylated, level of _g_alactosylation, and _f_ucosylated
 - subjects: groups by clinical status, with original 4-class labels (EC/VC/TP/UP) also broken into two 2-class labels (controller/progressor, viremic/nonviremic)
+
+
+random comment: DELETE ME LATER
